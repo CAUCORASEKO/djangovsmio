@@ -1,0 +1,2 @@
+# djangovsmio
+practicando django
